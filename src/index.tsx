@@ -1,6 +1,6 @@
 // import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App.tsx'
+import App from './Atv3.tsx'
 
 ReactDOM.render(
   <App />,
