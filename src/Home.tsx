@@ -1,8 +1,9 @@
+import Titulo from "./Titulo"
 
 const Home = () => {
     return (
         <main>
-            <h1>Home</h1>
+            <Titulo texto="Home" />
             <p>Essa é a home do site</p>
         </main>
     )

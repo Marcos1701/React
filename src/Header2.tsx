@@ -7,7 +7,7 @@ const Header2 = () => {
         <header>
             <nav id='navegacao'>
                 <ul>
-                    <li><a href={pathname === "/produtos" ? "./index" : "#"}>Home</a></li>
+                    <li><a href={pathname === "/produtos" ? "/" : "#"}>Home</a></li>
                     <li><a href={pathname === "/produtos" ? "#" : "/produtos"}>Produtos</a></li>
                 </ul>
             </nav>
