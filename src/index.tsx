@@ -1,6 +1,6 @@
 // import React from 'react'
 import { createRoot } from 'react-dom/client';
-import App from './Atv3.tsx'
+import App from './App1.tsx'
 
 const root = document.getElementById('root')
 if (!root) {
